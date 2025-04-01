@@ -23,5 +23,5 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-website' 
+  base: process.env.VITE_BASE_PATH  || "/portfolio-website"
 })
