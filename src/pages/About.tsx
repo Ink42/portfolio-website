@@ -73,7 +73,7 @@ const AboutPage = () => {
               
               <div className="space-y-6 text-muted-foreground">
                 <p>
-                  Hello, my name is Lindokuhle and I enjoy building software across different platforms and scales. My interest in full-stack development started in high school, and after finishing school, I dove deeper into software development. What began as a hobby soon became a passion.
+                  Hello, my name is Michael and I enjoy building software across different platforms and scales. My interest in full-stack development started in high school, and after finishing school, I dove deeper into software development. What began as a hobby soon became a passion.
                 </p>
                 
                 <p>

@@ -113,7 +113,7 @@ const FeaturedWork: React.FC = () => {
       description: "A camera app made using the Flutter framework. Implements modern UI design principles and provides a seamless photography experience.",
       image: "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=1024&auto=format&fit=crop",
       link: "/portfolio/brightpix",
-      github: "https://github.com/Ink42/BrightPix",
+      github: "https://github.com/Ink442/BrightPix",
       badge: "Public",
       tech: ["Flutter", "Dart", "Camera API", "UI/UX Design"]
     },
@@ -122,7 +122,7 @@ const FeaturedWork: React.FC = () => {
       description: "A Go-based project focused on performance and scalability. Implements modern backend architecture patterns for robust application development.",
       image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1024&auto=format&fit=crop",
       link: "/portfolio/flavor-go",
-      github: "https://github.com/Ink42/flavor_go",
+      github: "https://github.com/Ink442/flavor_go",
       badge: "Private",
       tech: ["Go", "Backend", "API", "Performance"]
     },
@@ -131,7 +131,7 @@ const FeaturedWork: React.FC = () => {
       description: "A robust server implementation using Java and MongoDB. Provides scalable data storage and efficient querying capabilities.",
       image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1024&auto=format&fit=crop",
       link: "/portfolio/java-server",
-      github: "https://github.com/Ink42/java-server-with-mongodb",
+      github: "https://github.com/Ink442/java-server-with-mongodb",
       badge: "Public",
       tech: ["Java", "MongoDB", "Server", "Database"]
     },
