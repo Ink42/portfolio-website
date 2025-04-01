@@ -58,7 +58,7 @@ const HeroSection: React.FC = () => {
               </Link>
             </Button>
             <Button asChild variant="outline" size="lg" className="gap-2">
-              <a href="https://github.com/Ink442" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/ink42" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
                 GitHub Profile
               </a>

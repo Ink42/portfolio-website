@@ -34,7 +34,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1620912189875-3a851c8c7b61?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/learn-jenkins-app"
+      github: "https://github.com/ink42/learn-jenkins-app"
     },
     {
       id: "lua-practices",
@@ -44,7 +44,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1608306448197-e83633f1261c?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Private",
-      github: "https://github.com/Ink442/lua_practices"
+      github: "https://github.com/ink42/lua_practices"
     },
     {
       id: "java-server-mongodb",
@@ -54,17 +54,17 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/java-server-with-mongodb"
+      github: "https://github.com/ink42/java-server-with-mongodb"
     },
     {
-      id: "ink442-github-io",
-      title: "Ink442.github.io",
+      id: "ink42-github-io",
+      title: "ink42.github.io",
       description: "Personal GitHub Pages website with portfolio projects.",
       category: "web",
       image: "https://images.unsplash.com/photo-1591267990532-e5bdb1b0ceb8?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/Ink442.github.io"
+      github: "https://github.com/ink42/ink42.github.io"
     },
     {
       id: "sever-analysis",
@@ -74,7 +74,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/sever_analysis"
+      github: "https://github.com/ink42/sever_analysis"
     },
     {
       id: "ink42",
@@ -84,7 +84,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1602529710584-458a995c8785?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/Ink42"
+      github: "https://github.com/ink42/Ink42"
     },
     {
       id: "brightpix",
@@ -94,7 +94,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/BrightPix"
+      github: "https://github.com/ink42/BrightPix"
     },
     {
       id: "flavor-go",
@@ -104,7 +104,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Private",
-      github: "https://github.com/Ink442/flavor_go"
+      github: "https://github.com/ink42/flavor_go"
     },
     {
       id: "thrive",
@@ -114,7 +114,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?q=80&w=1024&auto=format&fit=crop",
       year: 2024,
       badge: "Public",
-      github: "https://github.com/Ink442/thrive"
+      github: "https://github.com/ink42/thrive"
     },
     {
       id: "image-to-insight",
@@ -124,7 +124,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1542903660-eedba2cda473?q=80&w=1024&auto=format&fit=crop",
       year: 2023,
       badge: "Public",
-      github: "https://github.com/Ink442/ImageToInsight"
+      github: "https://github.com/ink42/ImageToInsight"
     },
     {
       id: "django-note",
@@ -134,7 +134,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?q=80&w=1024&auto=format&fit=crop",
       year: 2023,
       badge: "Private",
-      github: "https://github.com/Ink442/DjangoNote"
+      github: "https://github.com/ink42/DjangoNote"
     },
     {
       id: "snake-and-ladders",
@@ -144,7 +144,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1618022260898-96f8794390c0?q=80&w=1024&auto=format&fit=crop",
       year: 2023,
       badge: "Public",
-      github: "https://github.com/Ink442/snake-and-ladders"
+      github: "https://github.com/ink42/snake-and-ladders"
     },
     {
       id: "phantom-folder",
@@ -154,7 +154,7 @@ const PortfolioPage = () => {
       image: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=1024&auto=format&fit=crop",
       year: 2023,
       badge: "Private",
-      github: "https://github.com/Ink442/Phantom-Folder"
+      github: "https://github.com/ink42/Phantom-Folder"
     }
   ];
 
@@ -269,7 +269,7 @@ const PortfolioPage = () => {
               Check out my complete collection of projects and contributions.
             </p>
             <Button asChild variant="outline" size="lg" className="mt-4 border-primary-foreground/20 hover:bg-primary-foreground/10">
-              <a href="https://github.com/Ink442" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+              <a href="https://github.com/ink42" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                 <Github className="h-5 w-5" />
                 Visit GitHub Profile
               </a>

@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
               </a>
             </Button>
             <Button variant="ghost" size="icon" aria-label="GitHub" asChild>
-              <a href="https://github.com/Ink442" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/ink42" target="_blank" rel="noopener noreferrer">
                 <Github className="h-5 w-5" />
               </a>
             </Button>

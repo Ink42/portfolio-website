@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 const ContactSection: React.FC = () => {
   const handleSayHello = () => {
-    const email = 'hello@tokyofunk.com'; // Replace with your actual email
+    const email = 'lindomash001@gmail.com'; 
     const subject = 'Hello from Portfolio Site';
     const body = 'Hi there,\n\nI wanted to get in touch...';
     
@@ -42,7 +42,7 @@ const ContactSection: React.FC = () => {
             </div>
             <div>
               <h3 className="text-lg font-medium mb-1">Email</h3>
-              <p className="text-muted-foreground">hello@tokyofunk.com</p>
+              <p className="text-muted-foreground">lindomash001@gmail.com</p>
             </div>
           </div>
           

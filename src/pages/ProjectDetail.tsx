@@ -31,7 +31,7 @@ const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1620912189875-3a851c8c7b61?q=80&w=1024&auto=format&fit=crop",
     year: 2024,
     badge: "Public",
-    github: "https://github.com/Ink442/learn-jenkins-app",
+    github: "https://github.com/ink42/learn-jenkins-app",
     features: [
       "CI/CD pipeline examples",
       "Jenkins configuration as code",
@@ -50,7 +50,7 @@ const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=1024&auto=format&fit=crop",
     year: 2024,
     badge: "Public",
-    github: "https://github.com/Ink442/BrightPix",
+    github: "https://github.com/ink42/BrightPix",
     liveUrl: "https://play.google.com/store/apps/details?id=com.example.brightpix",
     features: [
       "Advanced camera controls",
@@ -70,7 +70,7 @@ const projects: Project[] = [
     image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?q=80&w=1024&auto=format&fit=crop",
     year: 2024,
     badge: "Public",
-    github: "https://github.com/Ink442/java-server-with-mongodb",
+    github: "https://github.com/ink42/java-server-with-mongodb",
     features: [
       "RESTful API implementation",
       "MongoDB integration",
@@ -244,7 +244,7 @@ const ProjectDetailPage = () => {
                 <Link to="/portfolio">View All Projects</Link>
               </Button>
               <Button asChild variant="outline">
-                <a href="https://github.com/Ink442" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                <a href="https://github.com/ink42" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                   <Github className="h-4 w-4" />
                   GitHub Profile
                 </a>
